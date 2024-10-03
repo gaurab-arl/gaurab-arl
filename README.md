@@ -1,6 +1,6 @@
 # Hi there, it's me Gaurab! 👋
 
-<img src="https://camo.githubusercontent.com/a0ae6af4977371e039dea2700012a5e261ecca4913523ccc1e2bb3e0afabc7f4/68747470733a2f2f632e74656e6f722e636f6d2f43775a446258374476523841414141642f706978656c2d73616b7572612e676966" />
+<img src="[https://camo.githubusercontent.com/a0ae6af4977371e039dea2700012a5e261ecca4913523ccc1e2bb3e0afabc7f4/68747470733a2f2f632e74656e6f722e636f6d2f43775a446258374476523841414141642f706978656c2d73616b7572612e676966](https://www.graffiti9.com/wp-content/webp-express/webp-images/uploads/2019/10/Website-Banner.jpg.webp)" />
 
 # Welcome to My GitHub Repository
 # About Me
