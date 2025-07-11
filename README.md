@@ -4,21 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Poet+by+Heart+%E2%9C%A8;Game+Dev+by+Dream+%F0%9F%8E%AE;Lazy+by+Nature+%F0%9F%92%A4" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="250" alt="coding gif" />
-</p>
-
----
-
 ### 🕹️ Featured Game Demo
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="100%" />
+  <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="700" />
 </p>
 
 <p align="center">
   🛸 <i>Still under heavy construction, powered by caffeine and chaos.</i>
 </p>
+
 
 ---
 
