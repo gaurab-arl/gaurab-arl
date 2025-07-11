@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Poet+by+Heart+%E2%9C%A8;Game+Dev+by+Dream+%F0%9F%8E%AE;Lazy+by+Nature+%F0%9F%92%A4" alt="Typing SVG" />
 </p>
 
-### 🕹️ Featured Game Demo
-
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="700" />
 </p>
