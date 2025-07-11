@@ -10,6 +10,18 @@
 
 ---
 
+### 🕹️ Featured Game Demo
+
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="100%" />
+</p>
+
+<p align="center">
+  🛸 <i>Still under heavy construction, powered by caffeine and chaos.</i>
+</p>
+
+---
+
 ### 🎮 Currently Crafting
 🚀 Building a **2D Space War Game** in C++ using `graphics.h`  
 🎯 Exploring the **Godot Engine** (fighting with OpenGL 😅)  
