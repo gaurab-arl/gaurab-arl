@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="700" />
+  <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="700" height="400"/>
 </p>
 
 <p align="center">
@@ -43,6 +43,6 @@
 ```bash
 Languages:    C, C++, HTML, CSS, JS, Bash
 Game Dev:     Godot, graphics.h (C++), SDL
-Cyber Tools:  Kali Linux (Native & VM), Metasploit
-Others:       Git, Android Studio, VS Code
-OS:           Windows 10
+Cyber Tools:  Kali Linux (Native & VM)
+Others:       Git,  VS Code
+OS:           Windows 10 , linux 
