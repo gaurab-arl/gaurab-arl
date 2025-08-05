@@ -4,6 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Poet+by+Heart+%E2%9C%A8;Game+Dev+by+Dream+%F0%9F%8E%AE;Lazy+by+Nature+%F0%9F%92%A4" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)
+[![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/yourusername)
+
+</div>
+
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="700" height="400"/>
 </p>
@@ -12,37 +20,211 @@
   🛸 <i>Still under heavy construction, powered by caffeine and chaos.</i>
 </p>
 
+---
+
+## 🎮 Currently Crafting
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Active Projects
+- **2D Space War Game** in C++ using `graphics.h`
+- **Godot Engine** exploration (fighting with OpenGL 😅)
+- **Kali Linux** mastery & terminal wizardry
+- **Android APK Development** journey begins
+
+</td>
+<td width="50%">
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎮 Currently Crafting
-🚀 Building a **2D Space War Game** in C++ using `graphics.h`  
-🎯 Exploring the **Godot Engine** (fighting with OpenGL 😅)  
-🛠️ Learning **Kali Linux**, terminal tools, and ethical hacking  
-📱 Starting my journey into **Android APK Development**
+## 🧠 What I'm Into
+
+<div align="center">
+
+| 🎯 **Focus Areas** | 🔥 **Passion Level** |
+|:------------------:|:--------------------:|
+| 🧑‍💻 Game Development & Animation | ████████████ 100% |
+| 🐧 Linux Terminal Kung Fu (Kali Style ⚔️) | ██████████ 85% |
+| 🛡️ Cybersecurity & Ethical Hacking | ████████ 75% |
+| ✍️ Writing Raw, Deep, Emotional Poetry | ████████████ 100% |
+
+</div>
 
 ---
 
-### 🧠 What I'm Into
-- 🧑‍💻 Game Development & Animation
-- 🐧 Linux Terminal Kung Fu (Kali Style ⚔️)
-- 🛡️ Cybersecurity & Hacking (for **ethical** reasons)
-- ✍️ Writing raw, deep, emotional poetry
+## ⚔️ Cybersecurity Arsenal (Learning Mode)
+
+<div align="center">
+
+```ascii
+    ╔══════════════════════════════════════╗
+    ║           ETHICAL HACKER             ║
+    ║              IN TRAINING             ║
+    ╚══════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+**🔓 Network Security**
+- WiFi & WPS attacks
+- Network sniffing
+- Vulnerability assessment
+
+</td>
+<td width="33%">
+
+**🐍 Scripting & Analysis**
+- Python automation
+- Malware reverse engineering
+- System exploitation
+
+</td>
+<td width="33%">
+
+**🛡️ Defense Tactics**
+- System hardening
+- Penetration testing
+- Security auditing
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚔️ Cybersecurity Skills (Learning)
-- 🔓 WiFi & WPS attacks (educational purpose 🧠)
-- 🐍 Python scripting + Malware reverse engineering
-- 🌐 Network sniffing & system vulnerabilities
+## 🧰 Tech Stack & Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🎮 Game Development
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL-1572B6?style=for-the-badge&logo=sdl&logoColor=white)
+
+### 🛡️ Cybersecurity Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 📊 GitHub Analytics
 
-```bash
-Languages:    C, C++, HTML, CSS, JS, Bash
-Game Dev:     Godot, graphics.h (C++), SDL
-Cyber Tools:  Kali Linux (Native & VM)
-Others:       Git,  VS Code
-OS:           Windows 10 , linux 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎭 Poetry Corner
+
+<div align="center">
+
+*"In the silence between keystrokes,  
+Where code meets chaos,  
+I find verses written in binary dreams  
+And metaphors compiled from midnight thoughts."*
+
+**— Gaurab, The Coding Poet**
+
+</div>
+
+---
+
+## 🌟 Fun Facts About Me
+
+<table>
+<tr>
+<td width="50%">
+
+- 🌙 **Night Owl**: Best code happens after midnight
+- ☕ **Caffeine Dependent**: Coffee is my debugging tool
+- 🎵 **Coding Soundtrack**: Lo-fi beats & cyberpunk vibes
+- 🐧 **Linux Enthusiast**: Terminal > GUI (fight me)
+
+</td>
+<td width="50%">
+
+- 🎮 **Retro Gamer**: Still plays classic arcade games
+- 📚 **Bookworm**: Sci-fi novels fuel my imagination  
+- 🌌 **Space Dreamer**: One day I'll code among the stars
+- 🔐 **Security Minded**: Paranoid about digital privacy
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Code is poetry in motion, and every bug is just a plot twist waiting to be resolved."
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🌟**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
