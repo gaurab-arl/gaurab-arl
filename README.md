@@ -56,17 +56,6 @@
 
 ## ⚔️ Cybersecurity Arsenal (Learning Mode)
 
-<div align="center">
-
-```ascii
-    ╔══════════════════════════════════════╗
-    ║           ETHICAL HACKER             ║
-    ║              IN TRAINING             ║
-    ╚══════════════════════════════════════╝
-```
-
-</div>
-
 <table>
 <tr>
 <td width="33%">
