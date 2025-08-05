@@ -61,11 +61,11 @@
       <li>Network sniffing</li>
     </ul>
   </td>
-  <td width="33%">
+  <td width="35%">
     <strong>🐍 Scripting & Analysis</strong>
     <ul>
       <li>Python automation</li>
-      <li>Malware Develop</li>
+      <li>Malware Development</li>
       <li>System exploitation</li>
     </ul>
   </td>
