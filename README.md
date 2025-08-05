@@ -54,7 +54,7 @@
 
 <table>
 <tr>
-  <td width="33%">
+  <td width="39%">
     <strong>🔓 Network Security</strong>
     <ul>
       <li>WiFi & WPS attacks</li>
@@ -69,7 +69,7 @@
       <li>System exploitation</li>
     </ul>
   </td>
-  <td width="33%">
+  <td width="39%">
     <strong>🛡️ Defense Tactics</strong>
     <ul>
       <li>Penetration testing</li>
