@@ -54,14 +54,14 @@
 
 <table>
 <tr>
-  <td width="39%">
+  <td width="35%">
     <strong>🔓 Network Security</strong>
     <ul>
       <li>WiFi & WPS attacks</li>
       <li>Network sniffing</li>
     </ul>
   </td>
-  <td width="39%">
+  <td width="37%">
     <strong>🐍 Scripting & Analysis</strong>
     <ul>
       <li>Python automation</li>
@@ -69,7 +69,7 @@
       <li>System exploitation</li>
     </ul>
   </td>
-  <td width="39%">
+  <td width="34%">
     <strong>🛡️ Defense Tactics</strong>
     <ul>
       <li>Penetration testing</li>
