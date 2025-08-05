@@ -65,7 +65,7 @@
     <strong>🐍 Scripting & Analysis</strong>
     <ul>
       <li>Python automation</li>
-      <li>Malware engineering</li>
+      <li>Malware Development</li>
       <li>System exploitation</li>
     </ul>
   </td>
@@ -118,9 +118,6 @@
 <tr>
   <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </td>
-  <td width="50%">
-    <img src="https://streak-stats.demolab.com/?user=gaurab-arl&theme=radical&hide_border=true" alt="GitHub Streak" />
   </td>
 </tr>
 </table>
