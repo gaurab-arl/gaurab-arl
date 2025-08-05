@@ -65,7 +65,7 @@
     <strong>🐍 Scripting & Analysis</strong>
     <ul>
       <li>Python automation</li>
-      <li>Malware Development</li>
+      <li>Malware Develop</li>
       <li>System exploitation</li>
     </ul>
   </td>
@@ -179,6 +179,7 @@
 <div align="center">
   <h3>🚀 " Six feet deep buried into a tree , Peacefully sleeping ."</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+ <br>
   <strong>Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🌟</strong>
 </div>
 
