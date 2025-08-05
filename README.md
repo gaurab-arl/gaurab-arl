@@ -61,7 +61,7 @@
       <li>Network sniffing</li>
     </ul>
   </td>
-  <td width="35%">
+  <td width="39%">
     <strong>🐍 Scripting & Analysis</strong>
     <ul>
       <li>Python automation</li>
