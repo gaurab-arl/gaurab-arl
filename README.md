@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Poet+by+Heart+%E2%9C%A8;Game+Dev+by+Dream+%F0%9F%8E%AE;Lazy+by+Nature+%F0%9F%92%A4" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/gaurab-arl?style=social)](https://github.com/gaurab-arl)
+[![Profile views](https://komarev.com/ghpvc/?username=gaurab-arl&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/gaurab-arl)
+
+</div>
 
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" alt="space game demo" width="700" height="400"/>
@@ -31,7 +38,7 @@
 <td width="50%">
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gaurab-arl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 </td>
 </tr>
@@ -45,15 +52,27 @@
 
 | 🎯 **Focus Areas** | 🔥 **Passion Level** |
 |:------------------:|:--------------------:|
-| 🧑‍💻 Game Development & Animation | █████ |
-| 🛡️ Cybersecurity & Ethical Hacking | █████|
-| ✍️ Writing Raw, Deep, Emotional Poetry | ███████ |
+| 🧑‍💻 Game Development & Animation | ████████████ 100% |
+| 🐧 Linux Terminal Kung Fu (Kali Style ⚔️) | ██████████ 85% |
+| 🛡️ Cybersecurity & Ethical Hacking | ████████ 75% |
+| ✍️ Writing Raw, Deep, Emotional Poetry | ████████████ 100% |
 
 </div>
 
 ---
 
 ## ⚔️ Cybersecurity Arsenal (Learning Mode)
+
+<div align="center">
+
+```ascii
+    ╔══════════════════════════════════════╗
+    ║           ETHICAL HACKER             ║
+    ║              IN TRAINING             ║
+    ╚══════════════════════════════════════╝
+```
+
+</div>
 
 <table>
 <tr>
@@ -62,19 +81,21 @@
 **🔓 Network Security**
 - WiFi & WPS attacks
 - Network sniffing
+- Vulnerability assessment
 
 </td>
 <td width="33%">
 
 **🐍 Scripting & Analysis**
 - Python automation
-- Malware engineering
+- Malware reverse engineering
 - System exploitation
 
 </td>
 <td width="33%">
 
 **🛡️ Defense Tactics**
+- System hardening
 - Penetration testing
 - Security auditing
 
@@ -103,6 +124,7 @@
 ### 🛡️ Cybersecurity Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🛠️ Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -142,8 +164,10 @@
 
 <div align="center">
 
-*"In the silence between key,
-Sometime I miss the sleep."*
+*"In the silence between keystrokes,  
+Where code meets chaos,  
+I find verses written in binary dreams  
+And metaphors compiled from midnight thoughts."*
 
 **— Gaurab, The Coding Poet**
 
@@ -157,17 +181,17 @@ Sometime I miss the sleep."*
 <tr>
 <td width="50%">
 
-- 🌙 **Night Owl**: Best thing happens after midnight
-- ☕ **Caffeine Dependent**: Coffee is my life supply 
-- 🎵 **Coding Soundtrack**: beats & all kinds
-- 🐧 **Linux Enthusiast**: Terminal > GUI 
+- 🌙 **Night Owl**: Best code happens after midnight
+- ☕ **Caffeine Dependent**: Coffee is my debugging tool
+- 🎵 **Coding Soundtrack**: Lo-fi beats & cyberpunk vibes
+- 🐧 **Linux Enthusiast**: Terminal > GUI (fight me)
 
 </td>
 <td width="50%">
 
-- 🎮 **Retro Gamer**:  plays classic arcade games
-- 📚 **Bookworm**: novels fuel my imagination  
-- 🌌 **Dreamer**: One day I'll dig my own grave
+- 🎮 **Retro Gamer**: Still plays classic arcade games
+- 📚 **Bookworm**: Sci-fi novels fuel my imagination  
+- 🌌 **Space Dreamer**: One day I'll code among the stars
 - 🔐 **Security Minded**: Paranoid about digital privacy
 
 </td>
@@ -191,7 +215,7 @@ Sometime I miss the sleep."*
 
 <div align="center">
 
-### 🚀 " Six feet deep buried into a tree , Peacefully sleeping ."
+### 🚀 "Code is poetry in motion, and every bug is just a plot twist waiting to be resolved."
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
