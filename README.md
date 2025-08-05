@@ -46,9 +46,8 @@
 | 🎯 **Focus Areas** | 🔥 **Passion Level** |
 |:------------------:|:--------------------:|
 | 🧑‍💻 Game Development & Animation | █████ |
-| 🐧 Linux Terminal Kung Fu (Kali Style ⚔️) | █████ |
 | 🛡️ Cybersecurity & Ethical Hacking | █████|
-| ✍️ Writing Raw, Deep, Emotional Poetry | ████████████ |
+| ✍️ Writing Raw, Deep, Emotional Poetry | ███████ |
 
 </div>
 
@@ -127,7 +126,7 @@
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurab-arl&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=gaurab-arl&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </td>
 </tr>
