@@ -128,16 +128,6 @@
 
 ---
 
-## 🎭 Poetry Corner
-
-<div align="center">
-  <em>"In the silence between key,<br>
-  Sometime I miss the sleep."</em><br>
-  <strong>— Gaurab, The Coding Poet</strong>
-</div>
-
----
-
 ## 🌟 Fun Facts About Me
 
 <table>
