@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🛸 <i>Still under heavy construction, powered by caffeine and chaos.</i>
+  🛸 <i>Still under heavy construction, powered by chaos.</i>
 </p>
 
 ---
@@ -130,6 +130,7 @@
 
 ## 🌟 Fun Facts About Me
 
+<div align="center">
 <table>
 <tr>
   <td width="50%">
@@ -150,7 +151,7 @@
   </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🤝 Let's Connect & Collaborate
