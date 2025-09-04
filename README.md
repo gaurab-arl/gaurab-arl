@@ -51,7 +51,7 @@
 ---
 
 ## ⚔️ Cybersecurity Arsenal (Learning Mode)
-
+<div align="center">
 <table>
 <tr>
   <td width="35%">
@@ -78,6 +78,7 @@
   </td>
 </tr>
 </table>
+</div>
 
 ---
 
