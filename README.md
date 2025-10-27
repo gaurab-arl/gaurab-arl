@@ -19,7 +19,7 @@ and exploring secure software development practices.
 - 🎮 **2D Space War Game** — Built in **C++** using `graphics.h`
 
 - 🐧 **Kali Linux** — Learning ethical hacking, terminal operations, and scripting
-- 📱 **Banking System** — Built a local server for simple banking operation
+- 📱 **Banking System** — Built a banking system for simple banking operation ( locally )
 
 ---
 
