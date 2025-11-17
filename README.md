@@ -14,11 +14,11 @@ and exploring secure software development practices.
 
 ---
 
-## 🚀 Current Projects
+## 🚀  Projects
 
 - 🎮 **2D Space War Game** — Built in **C++** using `graphics.h`
-
-- 🐧 **Kali Linux** — Learning ethical hacking, terminal operations, and scripting
+- 🎮 **Paddle Ball** - A fun game of ball and paddel using `graphics.h`
+- 🌐 **Poetry Portfolio** - Collection of a poet's work 
 - 📱 **Banking System** — Built a banking system for simple banking operation ( locally )
 
 ---
