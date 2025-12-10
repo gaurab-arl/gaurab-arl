@@ -47,19 +47,16 @@ I'm an engineering student focused on web development, cybersecurity, and unders
 
 ---
 
-## 📊 GitHub Stats
-
+33🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurab-arl&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurab-arl&theme=algolia&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
+##📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurab-arl&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurab-arl&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 ---
