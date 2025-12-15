@@ -47,24 +47,16 @@ I'm an engineering student focused on web development, cybersecurity, and unders
 
 ---
 
-33🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gaurab-arl&theme=algolia&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
-##📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurab-arl&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaurab-arl&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
