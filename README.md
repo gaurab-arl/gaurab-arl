@@ -10,7 +10,7 @@
 
 - I'm an engineering student focused on web development, cybersecurity, and understanding how systems work under the hood. I enjoy building clean, functional web apps and exploring secure coding, Linux, and networking.
 - check out my portfolio ( not responsive -working on it )
-  https://gaurabpersonal.vercel.app/
+ # https://gaurabpersonal.vercel.app/
 
 ---
 
