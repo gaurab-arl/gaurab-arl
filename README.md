@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8)
 </p>
 
 ---
