@@ -50,8 +50,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8"
+       alt="Top Languages"
+       width="48%" />
 </p>
 
 ---
