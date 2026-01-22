@@ -25,6 +25,10 @@ I enjoy building clean, functional web applications and exploring secure coding,
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" /> </p>
+
+---
+
 ## ⚙️ Tech Stack
 
 <div align="center">
