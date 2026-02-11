@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-I'm an engineering student passionate about **web development**, **cybersecurity**, and understanding how systems work under the hood.  
+I'm an engineering student passionate about **web development**, **cybersecurity**.  
 I enjoy building clean, functional web applications and exploring secure coding, Linux, and networking concepts.
 
-🔗 **Portfolio** (currently improving responsiveness):  
+🔗 **Portfolio** :  
 👉 https://gaurabpersonal.vercel.app/
 
 ---
