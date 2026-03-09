@@ -11,8 +11,6 @@
 I'm an engineering student passionate about **web development**, **cybersecurity**.  
 I enjoy building clean, functional web applications and exploring secure coding, Linux, and networking concepts.
 
-🔗 **Portfolio** :  
-👉 https://gaurabpersonal.vercel.app/
 
 ---
 
