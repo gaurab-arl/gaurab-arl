@@ -16,7 +16,7 @@ I enjoy building clean, functional web applications and exploring secure coding,
 
 ## 🛠️ Projects
 
-- 🌐 **Portfolio Website** — HTML, CSS, JavaScript
+- 🌐 **Portfolio Website** — React , tailwind, JavaScript
 - 📑 **Poetry Portfolio** — Minimal & elegant design
 - 🏦 **Local Banking System** — PHP with CRUD & secure handling
 - 🔐 **Security Practice Scripts** — Bash & Python automation
