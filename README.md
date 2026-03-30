@@ -45,15 +45,17 @@ Frontend developer and UI/UX designer based in Kathmandu. Currently a student. A
 
 </div>
 
-
+---
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurab-arl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurab-arl&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurab-arl&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=gaurab-arl&theme=tokyonight&hide_border=true)
 
 </div>
 
