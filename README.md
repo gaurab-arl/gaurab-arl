@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <div align="center">
 
@@ -13,8 +12,6 @@
 
 ### Frontend Developer · UI/UX Designer · Kathmandu, Nepal
 
-*Building interfaces that feel alive — one pixel at a time.*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurab-arl.github.io/my_portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurab-arl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurab-arl)
@@ -26,11 +23,7 @@
 
 ## `whoami`
 
-Frontend developer and UI/UX designer based in Kathmandu. I care about the space between function and feeling — the moment a layout clicks, an animation lands just right, or a user flow becomes invisible because it's so natural.
-
-Currently a student. Available for freelance work.
-
-> *I don't just build UIs. I think about why they should exist.*
+Frontend developer and UI/UX designer based in Kathmandu. Currently a student. Available for freelance work.
 
 ---
 
@@ -52,69 +45,7 @@ Currently a student. Available for freelance work.
 
 </div>
 
-```
-Frontend     ████████████████████░░  Strong
-UI/UX        ███████████████░░░░░░░  Growing
-Backend      ████████░░░░░░░░░░░░░░  Functional
-Security     ██████░░░░░░░░░░░░░░░░  Exploring
-```
 
----
-
-## Projects
-
-> *These are things I actually built and thought about.*
-
----
-
-### RentEase Nepal
-**Rental platform · No brokers, no middlemen**
-
-A full-stack platform connecting tenants and property owners directly — built as a college defence project. Three complete dashboards (tenant, owner, admin), auth flows, and a redesigned homepage. Consistent brand palette, semantic HTML, and zero unnecessary wrapper divs.
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
----
-
-### EventHub
-**College event management platform**
-
-QR-based attendance, organizer dashboards, student profiles — built with a Nepali college context in mind. Handles the chaos of campus events so coordinators don't have to.
-
-`JavaScript` `PHP` `HTML` `CSS`
-
----
-
-### Personal Portfolio
-**Dark cinematic single-page site**
-
-Particle canvas, horizontal scroll, physics-based animations. The kind of portfolio that's also a small experiment in what the browser can feel like.
-
-`JavaScript` `HTML` `CSS`
-
-`→` [Live Site](https://gaurab-arl.github.io/my_portfolio) · [Repo](https://github.com/gaurab-arl/my_portfolio)
-
----
-
-### Space War Game
-**Real-time C++ desktop game**
-
-Collision detection, enemy AI, game physics — written from scratch in C++. A reminder that logic and creativity aren't opposites.
-
-`C++` `C`
-
-`→` [Repo](https://github.com/gaurab-arl/space_war_game)
-
----
-
-### Blood Donation Platform
-**Connecting donors with recipients**
-
-A simple, purposeful web platform. Clean interface, responsive design, real-world utility.
-
-`HTML` `CSS` `JavaScript`
-
----
 
 ## GitHub Stats
 
@@ -130,14 +61,5 @@ A simple, purposeful web platform. Clean interface, responsive design, real-worl
 
 ## Currently
 
-- Working on web projects at the intersection of design and engineering
 - Exploring cybersecurity concepts
 - Open to freelance frontend / UI work — [get in touch](mailto:gaurab.arl@example.com)
-
----
-
-<div align="center">
-
-*Based in Kathmandu. Building on the internet.*
-
-</div>
