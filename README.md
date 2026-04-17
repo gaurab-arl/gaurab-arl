@@ -13,3 +13,4 @@ I work across frontend and backend development, building functional web applicat
 ## 📫 Get In Touch
 
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss web development and tech.
+....
