@@ -16,7 +16,7 @@
 
 ## 🔥 Commit Streak
 
-![Streak](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=gaurab-arl\&theme=tokyonight)
 
 ---
 
