@@ -1,16 +1,25 @@
-# Hey there, I'm Gaurab 👋
-
-I'm a **Full-Stack Developer** and **Web Designer**. I build web applications and work on various projects.
+# 👋 Hi, I'm Gaurab
 
 ---
 
-## 💡 About Me
+## 📊 GitHub Stats
 
-I work across frontend and backend development, building functional web applications. I focus on clean code and user-focused design.
+![Stats](https://github-readme-stats.vercel.app/api?username=gaurab-arl\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 📫 Get In Touch
+## 🧠 Most Used Languages
 
-Feel free to explore my projects and reach out if you'd like to collaborate or discuss web development and tech.
-....
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Commit Streak
+
+![Streak](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight)
+
+---
+
+## ⚡ About Me
+
+* 💻 Web Dev | Ethical Hacking
