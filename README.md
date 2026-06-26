@@ -10,7 +10,7 @@
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl\&theme=tokyonight)
 
 ---
 
