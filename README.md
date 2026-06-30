@@ -4,7 +4,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gaurab-arl\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-58.vercel.app/api?username=gaurab-arl\&show_icons=true\&theme=tokyonight)
 
 ---
 
