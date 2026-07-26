@@ -16,7 +16,7 @@
 
 ## 🔥 Commit Streak
 
-[![GitHub Streak][https://streak-stats.demolab.com/?user=gaurab-arl](https://streak-stats.demolab.com/?user=gaurab-arl)
+[![GitHub Streak][https://streak-stats.demolab.com/?user=gaurab-arl]](https://streak-stats.demolab.com/?user=gaurab-arl)
 
 ---
 
