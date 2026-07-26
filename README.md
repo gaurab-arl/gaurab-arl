@@ -16,7 +16,7 @@
 
 ## 🔥 Commit Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gaurab-arl&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak][https://streak-stats.demolab.com/?user=gaurab-arl](https://streak-stats.demolab.com/?user=gaurab-arl)
 
 ---
 
