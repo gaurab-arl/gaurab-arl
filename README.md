@@ -4,13 +4,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-58.vercel.app/api?username=gaurab-arl\&show_icons=true\&theme=tokyonight)
+![Stats](github-readme-stats-opal-nine-21.vercel.app/api?username=gaurab-arl\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats-58.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=tokyonight)
+![Top Langs](github-readme-stats-opal-nine-21.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=tokyonight)
 
 ---
 
