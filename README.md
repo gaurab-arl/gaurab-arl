@@ -20,6 +20,6 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ Interest
 
 * 💻 Web Dev | Ethical Hacking
