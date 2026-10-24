@@ -4,22 +4,18 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-opal-nine-21.vercel.app/api?username=gaurab-arl&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=gaurab-arl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats-opal-nine-21.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=tokyonight)
+![Top Langs]([https://github-readme-stats-opal-nine-21.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=radical&hide_border=true))
 
 ---
 
 ## 🔥 Commit Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gaurab-arl&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gaurab-arl&theme=radical&hide_border=true)
 
----
 
-## ⚡ Interest
-
-* 💻 Web Dev | Ethical Hacking
