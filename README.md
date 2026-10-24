@@ -10,7 +10,7 @@
 
 ## 🧠 Most Used Languages
 
-![Top Langs]([https://github-readme-stats-opal-nine-21.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=radical&hide_border=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab-arl&layout=compact&theme=radical&hide_border=true)
 
 ---
 
