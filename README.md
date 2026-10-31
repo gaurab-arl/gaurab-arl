@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/midnight-sakura-top.png" alt="Midnight Sakura Japanese night landscape" width="100%" />
+  <img src="midnight-sakura-top.png" alt="Midnight Sakura Japanese night landscape" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Gaurab</h1>
@@ -104,5 +104,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/midnight-sakura-bottom.png" alt="Midnight Sakura closing landscape" width="100%" />
+  <img src="midnight-sakura-bottom.png" alt="Midnight Sakura closing landscape" width="100%" />
 </p>
